@@ -30,8 +30,8 @@
 
 .button {
   position: absolute;
-  bottom: 2px;
-  left: 65%;
+  bottom: -45px;
+  right: 297px;
   width: 200px;
   height: 200px;
   object-fit: cover;
