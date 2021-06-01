@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="main">
         <img src={companyLogo}  />
-        <a href="http://www.tokyobay.lk/demo/home"><img src={button}  className="button" /></a>
+        <a href="http://www.tokyobay.lk"><img src={button}  className="button" /></a>
     </div>
   );
 }
